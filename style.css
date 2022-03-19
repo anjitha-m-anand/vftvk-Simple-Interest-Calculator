@@ -17,3 +17,7 @@ h1 {
     border-radius: 25px;
     margin: auto;
 }
+
+.w-100{
+    width: 100px;
+}
