@@ -26,10 +26,14 @@ h1 {
     display: table;
 }
 
-.p-right-35{
-    padding-right: 35px;
+.p-right-10{
+    padding-right: 10px;
 }
 
-.p-right-55{
-    padding-right: 55px;
+.p-right-40{
+    padding-right: 40px;
+}
+
+.p-right-60{
+    padding-right: 60px;
 }
