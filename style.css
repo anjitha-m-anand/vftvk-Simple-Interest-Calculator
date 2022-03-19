@@ -25,3 +25,7 @@ h1 {
 .container{
     display: table;
 }
+
+.p-right-35{
+    padding-right: 35px;
+}
