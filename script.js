@@ -9,7 +9,7 @@ function compute()
     if(parseFloat(principal) <= 0)
     {
         document.getElementById("principal").focus();
-        alert("Please enter a valid value");
+        alert("Please enter a positive amount");
         return false;
     }
 
