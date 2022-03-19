@@ -18,6 +18,10 @@ h1 {
     margin: auto;
 }
 
-.w-100{
-    width: 100px;
+.disp-t-cell{
+    display:table-cell;
+}
+
+.container{
+    display: table;
 }

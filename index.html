@@ -8,8 +8,10 @@
     <body>
         <div class="maindiv">
         <h1>Simple Interest Calculator</h1>
-
-        <label class="w-100">Amount</label> <input type="number"  id="principal">  <br/> <br/>
+        
+        <div class="container">
+        <label class="disp-t-cell">Amount</label> <input type="number"  id="principal" class="disp-t-cell">  <br/> <br/>
+        </div>
         Rate<input type="range"  id="rate" min="minval" max="maxval" value="default_val" onchange="updateRate()">
         <span id="rate_val"></span> <br/><br/>
         No. of Years <select id="years">
